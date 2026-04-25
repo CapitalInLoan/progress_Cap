@@ -1,7 +1,7 @@
 progress - Coreutils Progress Viewer
 =====================
 
-What is it
+What is its
 ----------
 
 This tool can be described as a **tiny**, dirty C command
